@@ -1,0 +1,25 @@
+.student-top-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 20px;
+}
+
+.student-search-wrapper {
+  /* border: 1px solid; */
+  padding: 20px;
+}
+
+.student-search-box {
+  display: flex;
+  border: 1px solid var(--border-color);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.student-search-box input {
+  border: 0 solid;
+  outline: none;
+  margin-left: 15px;
+}

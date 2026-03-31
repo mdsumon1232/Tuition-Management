@@ -26,3 +26,10 @@ a {
 img {
   width: 100%;
 }
+
+/* ------------------ css variable ------------------ */
+
+:root {
+  --container: 1600px;
+  --border-color: #0000;
+}
